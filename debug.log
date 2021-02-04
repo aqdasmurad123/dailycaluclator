@@ -1,0 +1,12 @@
+[1223/183527.545:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1228/214739.075:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1228/220854.767:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1228/222014.421:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1228/230924.119:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1228/231621.802:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1228/235535.033:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1229/000448.623:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1229/000707.516:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1229/135830.860:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1229/171116.871:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aqdas\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\9285950e-8bc2-4a54-a32c-757ab93e208e: The system cannot find the path specified. (0x3)
+[1229/171116.871:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
